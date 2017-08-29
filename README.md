@@ -1,2 +1,7 @@
 # Math_of_intelligence
-from the math of intelligence Siraj Raval youtube 
+from Siraj Raval's Math of Intelligence on Youtube 
+
+- compare with models provided by sklearn python
+  - computational efficiency 
+  - accuracy 
+  - 
